@@ -1,4 +1,14 @@
+// En saanut 1.10 refaktorointia tehtyä toimivaksi, joten jätin tehtävän kohtaan 10.9
+
 import { useState } from 'react'
+
+const Button = (props) => {
+
+}
+
+const StatisticLine = (props) => {
+
+}
 
 const Statistics = (props) => {
   const total = props.goodClick + props.neutralClick + props.badClick
